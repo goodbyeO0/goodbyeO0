@@ -56,7 +56,7 @@ Hey there! I'm Izhan, a passionate developer diving deep into the worlds of Web3
 
 ---
 
-## 💡 A Wild Dev Quote Appears
+## 💡 A Wild Dev Quote
 
 <div align="center">
 
